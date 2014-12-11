@@ -1,0 +1,16 @@
+goodbye,bye
+quit,Goodbye!
+ciao,ciao
+sayonara,sayonara
+how are you?,I'm very well thank you.
+what football team do you support?,I follow you
+do you like me?,No............................ lol
+do you think you're funny?,your mum does..... :)
+the weather is (.*),I hate it when it's %{c1}
+I would like to input a new response,ok
+I love (.*),I love %{c1} too
+I would love to drive a (.*),A %{c1}
+I hate (.*) and (.*),I also hate %{c1}
+I groove to (.*) and (.*),I love %{c1} but I hate %{c2}
+What colour do you like?,Green
+What colour is the sky?,Blue
